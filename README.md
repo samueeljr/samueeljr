@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá, eu sou Samuel!
 
-<!--
-**samueeljr/samueeljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas**
+Técnico em **Tecnologia da Informação**
 
-Here are some ideas to get you started:
+Tenho interesse em **desenvolvimento de sistemas, tecnologia e resolução de problemas**. Atualmente estou aprimorando meus conhecimentos através de estudos, cursos e projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+
+* #### Linguagens
+ `Python` `Java` `JavaScript` `C`
+
+### Web
+
+ - HTML
+ - CSS
+ - JavaScript
+
+### Ferramentas
+
+ - Git
+ - GitHub
+ - VS Code
+ - Figma
+ - MySQL
+ - AstahUML
+ - Pacote Office
+
+
+### Alguns projetos
+
+* **Sistema de Gestão de Equipamentos** — Sistema para controle e histórico de equipamentos
+* **SAMáquinas e Motores** — Website para apresentação de produtos
+
+### Atualmente aprendendo
+
+* Desenvolvimento de sistemas
+* Engenharia de software
+* Banco de dados
+* Cibersegurança
+* Git e GitHub
+
+### Contato
+
+LinkedIn: **https://www.linkedin.com/in/samuel-oliveira-j%C3%BAnior-8883783b8**
+
+E-mail: **juninhosamuca5@gmail.com**
